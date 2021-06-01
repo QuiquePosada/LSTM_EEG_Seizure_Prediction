@@ -12,6 +12,3 @@ This repository contains all research work done for analyzing and predicting sei
 * mne
 * numpy
 * sklearn
-
-
-#### Insert procedure ton execute or replicate work
