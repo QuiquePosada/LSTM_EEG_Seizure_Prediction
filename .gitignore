@@ -2,3 +2,6 @@
 data
 models
 tesinaPy.py
+
+.vscode
+.ipynb_checkpoints directory
